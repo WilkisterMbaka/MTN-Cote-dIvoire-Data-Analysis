@@ -17,9 +17,9 @@ CDR 20120509 [https://bit.ly/Telcom_dataset3]
 
 METHODOLOGY: CRISP DM
 
-Data Loading
-Data Understanding
-Data Preparation
-Data Analysis
-Recommendation
-Evaluation
+* Data Loading
+* Data Understanding
+* Data Preparation
+* Data Analysis
+* Recommendation
+* Evaluation
